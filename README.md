@@ -1,1 +1,1 @@
-# c_to_f
+# this is a change from Celsius to Fahrenheit (°C to °F)
